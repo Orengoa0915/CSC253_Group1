@@ -1,2 +1,2 @@
-# CSC285_Group1
+# CSC253_Group1
 Group Project
